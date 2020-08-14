@@ -1,0 +1,10 @@
+SW7_15 ToySoldier 10.00
+SW7_15 Robot 8.00
+SW7_15 PrincessDoll 12.00
+TM_15 Rover 30.00
+SW7_15 Spaceship 15.00
+SW7_15 Beddingset 20.00
+SW7_15 ToyGun 5.00
+SW7_15 LegoSet 50.00
+TM_15 RocketToy 20.00
+TM_15 SolarPanel 10.00
